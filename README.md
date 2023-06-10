@@ -19,3 +19,7 @@
 
 ### DataWarehouse Dimensional Model
 ![Blank diagram](https://github.com/pratik3848/Uber-Data-Analytics-Pipeline/assets/41427089/93d9e747-bfa4-4783-9e5c-805cc0e6b30c)
+
+## Visualization
+![Uber_Dashboard (2)-1](https://github.com/pratik3848/Uber-Data-Analytics-Pipeline/assets/41427089/8d2ec669-1c94-4171-8e32-cfb04b89e58e)
+
